@@ -128,7 +128,7 @@ int main()
 
 				if (mouseLocation.x >= four.getPosition().x && mouseLocation.x <= (four.getPosition().x + 128)
 					&& mouseLocation.y >= four.getPosition().y && mouseLocation.y <= (four.getPosition().y + 128)
-					&& isClicked[3] == 0){	//Third tile
+					&& isClicked[3] == 0){	//Fourth tile
 					mouseClicked = false;
 					isClicked[3] = 1;
 
@@ -146,7 +146,7 @@ int main()
 
 				if (mouseLocation.x >= five.getPosition().x && mouseLocation.x <= (five.getPosition().x + 128)
 					&& mouseLocation.y >= five.getPosition().y && mouseLocation.y <= (five.getPosition().y + 128)
-					&& isClicked[4] == 0){	//Third tile
+					&& isClicked[4] == 0){	//Fifth tile
 					mouseClicked = false;
 					isClicked[4] = 1;
 
@@ -164,7 +164,7 @@ int main()
 				
 				if (mouseLocation.x >= six.getPosition().x && mouseLocation.x <= (six.getPosition().x + 128)
 					&& mouseLocation.y >= six.getPosition().y && mouseLocation.y <= (six.getPosition().y + 128)
-					&& isClicked[5] == 0){	//Third tile
+					&& isClicked[5] == 0){	//Sixth tile
 					mouseClicked = false;
 					isClicked[5] = 1;
 
@@ -182,7 +182,7 @@ int main()
 
 				if (mouseLocation.x >= seven.getPosition().x && mouseLocation.x <= (seven.getPosition().x + 128)
 					&& mouseLocation.y >= seven.getPosition().y && mouseLocation.y <= (seven.getPosition().y + 128)
-					&& isClicked[6] == 0){	//Third tile
+					&& isClicked[6] == 0){	//Seventh tile
 					mouseClicked = false;
 					isClicked[6] = 1;
 
@@ -200,7 +200,7 @@ int main()
 
 				if (mouseLocation.x >= eight.getPosition().x && mouseLocation.x <= (eight.getPosition().x + 128)
 					&& mouseLocation.y >= eight.getPosition().y && mouseLocation.y <= (eight.getPosition().y + 128)
-					&& isClicked[7] == 0){	//Third tile
+					&& isClicked[7] == 0){	//Eighth tile
 					mouseClicked = false;
 					isClicked[7] = 1;
 
@@ -218,7 +218,7 @@ int main()
 
 				if (mouseLocation.x >= nine.getPosition().x && mouseLocation.x <= (nine.getPosition().x + 128)
 					&& mouseLocation.y >= nine.getPosition().y && mouseLocation.y <= (nine.getPosition().y + 128)
-					&& isClicked[8] == 0){	//Third tile
+					&& isClicked[8] == 0){	//Nineth tile
 					mouseClicked = false;
 					isClicked[8] = 1;
 
